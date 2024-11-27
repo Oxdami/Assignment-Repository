@@ -1,0 +1,29 @@
+4. list and describe the other cloud service models.
+Desktop as a Service (DaaS)*
+
+DaaS provides virtual desktops over the internet. Users can access their virtual desktops from anywhere, on any device, and have access to their applications, files, and settings.
+
+Serverless Computing*
+
+Serverless computing is a cloud computing model in which the cloud provider manages the infrastructure and dynamically allocates computing resources as needed. Users only pay for the computing resources they use, and do not have to manage the underlying infrastructure.
+
+Backend as a Service (BaaS)*
+
+BaaS provides a suite of cloud-based services that enable developers to build and deploy mobile and web applications. BaaS includes services such as user authentication, data storage, and push notifications.
+
+Cloud Functions*
+
+Cloud functions are small, stateless pieces of code that are executed in response to specific events. Cloud functions are often used for tasks such as data processing, real-time analytics, and IoT processing.
+
+
+Edge Computing*
+
+Edge computing is a cloud computing model in which data processing occurs at the edge of the network, closer to the source of the data. Edge computing reduces latency and improves real-time processing capabilities.
+
+Hybrid Cloud*
+
+Hybrid cloud is a cloud computing model that combines on-premises infrastructure with cloud-based infrastructure. Hybrid cloud enables organizations to take advantage of the scalability and flexibility of cloud computing while still maintaining control over their sensitive data and applications.
+
+Community Cloud*
+
+Community cloud is a cloud computing model in which a group of organizations with similar interests or goals share a cloud infrastructure. Community cloud enables organizations to collaborate and share resources while maintaining control over their data and applications.
