@@ -27,3 +27,8 @@ Hybrid cloud is a cloud computing model that combines on-premises infrastructure
 Community Cloud*
 
 Community cloud is a cloud computing model in which a group of organizations with similar interests or goals share a cloud infrastructure. Community cloud enables organizations to collaborate and share resources while maintaining control over their data and applications.
+
+
+
+
+THE END
